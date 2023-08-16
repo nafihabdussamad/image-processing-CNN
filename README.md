@@ -1,1 +1,1 @@
-# image-processing-CNN
+# image-processing-DNN
